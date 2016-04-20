@@ -1,0 +1,318 @@
+!SESSION 2014-06-12 16:22:53.978 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.jface 2 0 2014-06-12 16:23:18.522
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-06-12 16:23:18.522
+!MESSAGE A conflict occurred for ALT+CTRL+P:
+Binding(ALT+CTRL+P,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.CreatePatchCommand,Create Patch...,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5001c50f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+P,
+	ParameterizedCommand(Command(org.jboss.tools.maven.ui.commands.selectMavenProfileCommand,Maven Profiles Selection,
+		,
+		Category(org.eclipse.ui.category.window,Window,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@243084d2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2014-06-12 16:23:19.417
+!MESSAGE Could not load repository template extension contributed by org.springsource.ide.eclipse.dashboard.ui with connectorKind jira
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2014-06-12 16:23:19.419
+!MESSAGE Could not load repository template extension contributed by org.springsource.ide.eclipse.dashboard.ui with connectorKind jira
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-06-12 16:23:25.607
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-06-12 16:23:25.610
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'H:\'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 0 0 2014-06-12 16:23:26.242
+!MESSAGE Result of converting legacy STS 2.x workspace preferences to 3.x
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2014-06-12 16:23:26.242
+!MESSAGE Converted legacy STS plugin preferences
+!SUBENTRY 1 unknown 0 0 2014-06-12 16:23:26.242
+!MESSAGE OK
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2014-06-12 16:23:26.242
+!MESSAGE Converted legacy Roo plugin state locations
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2014-06-12 16:23:26.242
+!MESSAGE Converted legacy STS plugin state locations
+!SESSION 2014-06-12 16:25:14.638 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -data C:\D3\QHPMap -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.jface 2 0 2014-06-12 16:25:18.787
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-06-12 16:25:18.787
+!MESSAGE A conflict occurred for ALT+CTRL+P:
+Binding(ALT+CTRL+P,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.CreatePatchCommand,Create Patch...,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6fcbdbd6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+P,
+	ParameterizedCommand(Command(org.jboss.tools.maven.ui.commands.selectMavenProfileCommand,Maven Profiles Selection,
+		,
+		Category(org.eclipse.ui.category.window,Window,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@30cdf7f1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2014-06-12 16:25:20.039
+!MESSAGE Could not load repository template extension contributed by org.springsource.ide.eclipse.dashboard.ui with connectorKind jira
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2014-06-12 16:25:20.041
+!MESSAGE Could not load repository template extension contributed by org.springsource.ide.eclipse.dashboard.ui with connectorKind jira
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-06-12 16:25:25.174
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-06-12 16:25:25.176
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'H:\'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2014-06-13 10:57:01.483 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -data C:\D3\QHPMap -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.jface 2 0 2014-06-13 10:57:05.578
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-06-13 10:57:05.578
+!MESSAGE A conflict occurred for ALT+CTRL+P:
+Binding(ALT+CTRL+P,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.CreatePatchCommand,Create Patch...,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7dee78a5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+P,
+	ParameterizedCommand(Command(org.jboss.tools.maven.ui.commands.selectMavenProfileCommand,Maven Profiles Selection,
+		,
+		Category(org.eclipse.ui.category.window,Window,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3332d93a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2014-06-13 10:57:08.634
+!MESSAGE Could not load repository template extension contributed by org.springsource.ide.eclipse.dashboard.ui with connectorKind jira
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2014-06-13 10:57:08.636
+!MESSAGE Could not load repository template extension contributed by org.springsource.ide.eclipse.dashboard.ui with connectorKind jira
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-06-13 10:57:13.303
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-06-13 10:57:13.305
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'H:\'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-01-08 13:34:24.813 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.ui 4 4 2015-01-08 13:37:31.967
+!MESSAGE Unable to find Action Set: org.eclipse.rse.core.search.searchActionSet
+
+!ENTRY org.eclipse.ui 4 4 2015-01-08 13:37:31.977
+!MESSAGE Unable to find Action Set: org.jboss.ide.eclipse.archives.ui.actions.Archives
+
+!ENTRY org.eclipse.ui 4 4 2015-01-08 13:37:31.977
+!MESSAGE Unable to find Action Set: org.jboss.tools.jst.web.ui.server.actionSet
+
+!ENTRY org.eclipse.ui 4 4 2015-01-08 13:37:31.977
+!MESSAGE Unable to find Action Set: org.jboss.tools.central
+
+!ENTRY org.eclipse.ui 4 4 2015-01-08 13:37:31.987
+!MESSAGE Unable to find Action Set: org.jboss.tools.common.model.ui.actionSet
+
+!ENTRY org.eclipse.ui 4 4 2015-01-08 13:37:31.987
+!MESSAGE Unable to find Action Set: org.hibernate.eclipse.launch.actionset
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2015-01-08 13:37:32.678
+!MESSAGE Could not load repository template extension contributed by org.eclipse.mylyn.bugzilla.ide with connectorKind bugzilla
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2015-01-08 13:37:32.678
+!MESSAGE Could not load repository template extension contributed by org.springsource.ide.eclipse.dashboard.ui with connectorKind jira
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2015-01-08 13:37:32.678
+!MESSAGE Could not load repository template extension contributed by org.springsource.ide.eclipse.dashboard.ui with connectorKind jira
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-01-08 13:37:38.182
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-01-08 13:37:38.188
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'H:\'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-06-19 15:47:45.036 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.ui 4 4 2015-06-19 15:51:28.143
+!MESSAGE Unable to find Action Set: org.eclipse.rse.core.search.searchActionSet
+
+!ENTRY org.eclipse.ui 4 4 2015-06-19 15:51:28.153
+!MESSAGE Unable to find Action Set: org.jboss.ide.eclipse.archives.ui.actions.Archives
+
+!ENTRY org.eclipse.ui 4 4 2015-06-19 15:51:28.153
+!MESSAGE Unable to find Action Set: org.jboss.tools.jst.web.ui.server.actionSet
+
+!ENTRY org.eclipse.ui 4 4 2015-06-19 15:51:28.153
+!MESSAGE Unable to find Action Set: org.jboss.tools.central
+
+!ENTRY org.eclipse.ui 4 4 2015-06-19 15:51:28.163
+!MESSAGE Unable to find Action Set: org.jboss.tools.common.model.ui.actionSet
+
+!ENTRY org.eclipse.ui 4 4 2015-06-19 15:51:28.163
+!MESSAGE Unable to find Action Set: org.hibernate.eclipse.launch.actionset
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2015-06-19 15:51:33.797
+!MESSAGE Could not load repository template extension contributed by org.eclipse.mylyn.bugzilla.ide with connectorKind bugzilla
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2015-06-19 15:51:33.799
+!MESSAGE Could not load repository template extension contributed by org.springsource.ide.eclipse.dashboard.ui with connectorKind jira
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2015-06-19 15:51:33.802
+!MESSAGE Could not load repository template extension contributed by org.springsource.ide.eclipse.dashboard.ui with connectorKind jira
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-06-19 15:51:37.359
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-06-19 15:51:37.364
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'H:\'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-07-01 10:08:04.758 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2015-07-01 10:08:33.581
+!MESSAGE Could not load repository template extension contributed by org.eclipse.mylyn.bugzilla.ide with connectorKind bugzilla
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2015-07-01 10:08:33.589
+!MESSAGE Could not load repository template extension contributed by org.springsource.ide.eclipse.dashboard.ui with connectorKind jira
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2015-07-01 10:08:33.591
+!MESSAGE Could not load repository template extension contributed by org.springsource.ide.eclipse.dashboard.ui with connectorKind jira
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-01 10:08:35.966
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-01 10:08:35.973
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'H:\'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-10-27 11:34:17.408 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2015-10-27 11:34:55.467
+!MESSAGE Could not load repository template extension contributed by org.eclipse.mylyn.bugzilla.ide with connectorKind bugzilla
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2015-10-27 11:34:55.474
+!MESSAGE Could not load repository template extension contributed by org.springsource.ide.eclipse.dashboard.ui with connectorKind jira
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2015-10-27 11:34:55.477
+!MESSAGE Could not load repository template extension contributed by org.springsource.ide.eclipse.dashboard.ui with connectorKind jira
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-10-27 11:34:57.535
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-10-27 11:34:57.542
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'H:\'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
